@@ -58,7 +58,6 @@
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
 
   <br/>
-   
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NipunaDil99&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <br/>
