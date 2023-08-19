@@ -9,8 +9,6 @@
 
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
-- 🔭 I’m currently working at **Pristine Solutions as a Trainee Software Engineer**
-
 - 💬 Ask me about **react, Angular, spring boot, ASP.NET and NodeJS**
 
 - 📫 How to reach me **nipunaaluthdeniya@gmail.com**
