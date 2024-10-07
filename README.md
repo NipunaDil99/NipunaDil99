@@ -1,6 +1,7 @@
 <img align="center" width="100%" height="100%" src="https://64.media.tumblr.com/2de6317171c4874fee950354c6582346/0cf2023b650b53f6-96/s2048x3072/02b58b350da101a2e20868daa412ef73f4b4db72.jpg">
-<h1 align="center">Hi 👋, I'm Nipuna Dilshan</h1>
-<h4 align="center">IT Undergraduate at University of Moratuwa</h4>
+<h1 align="center">Hi 👋, I'm Nipuna Aluthdeniya</h1>
+<h1 align="center">Software Engineer at IFS</h1>
+<h4 align="center">IT Graduate at University of Moratuwa</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihakalanka&label=Profile%20views&color=0e75b6&style=flat" alt="nipunadilshan" /> </p>-->
